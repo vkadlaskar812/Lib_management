@@ -1,0 +1,22 @@
+[
+     {
+          "id": 89,
+          "name": "Angels and Demons",
+          "description": "Illuminati rises to fight the church.",
+          "isbn": "5748-90",
+          "page_cnt": 87,
+          "issued": false,
+          "author": "jikolo",
+          "year": 1623
+     },
+     {
+          "id": 31,
+          "name": "Harry Potter and the Deathly Hallows",
+          "description": "Harry, Hermione and Ron try to find and destroy horcruxes.",
+          "isbn": "1654-895",
+          "page_cnt": 61,
+          "issued": false,
+          "author": "Shaun",
+          "year": 1280
+     }
+]
